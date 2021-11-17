@@ -1,0 +1,93 @@
+#contacto h3, h2 {
+	text-align: center;
+	color: #fff;
+}
+
+#contacto .maps {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	margin: 25px;
+}
+.maps {
+
+}
+
+
+#contacto .contenedor {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+#contacto article {
+	margin: 25px;
+}
+
+#contacto img {
+	width: 100%;
+	max-height: 400px;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.form-register {
+	background: #454546;
+	padding: 30px;
+	margin: auto;
+	margin-top: 100px;
+	border-radius: 4px;
+	font-family: 'calibri';
+	color: white;
+	box-shadow: 7px 13px 37px #000;
+}
+.form-register h4 {
+	font-size: 22px;
+	margin-bottom: 20px;
+}
+.controls {
+	width: 100%;
+	background: #272727;
+	padding: 10px;
+	border-radius: 4px;
+	margin-bottom: 16px;
+	border: 1px solid #000;
+	font-family: 'calibri';
+	font-size: 18px;
+	color: white;
+
+}
+.form-register a:hover {
+	color: #000;
+	text-decoration: none;
+
+	
+}
+.botons {
+	botons-align: center;
+	border-radius: 4px;
+	text-decoration: none;
+	width: 100%;
+	background: #272727;
+	border: 1px solid #000;
+	padding: 10px;
+	color: white;
+	margin: 16px 0;
+	font-size: 15px;
+
+
+}
+.form-register {
+	width: 45%;
+
+}
+.maps {
+	padding: 30px;
+}
+
+
+
